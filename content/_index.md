@@ -11,7 +11,7 @@ sections:
     section_id: hero
     title: Find work you love
     type: section_hero
-  - bg: gray
+  - bg: white
     featureslist:
       - actions:
           - label: Learn More

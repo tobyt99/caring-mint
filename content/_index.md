@@ -17,29 +17,26 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Tell us what A levels you are taking and give us your expected grades
+          and we'll tell you what courses most people are looking at.
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: AI Course matching
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          All Uni couses are evaluated by students who completed the course last
+          year.  Use their feedback to help you choose your course.
         image: images/feature2.png
-        title: Awesome Feature of Your Services
+        title: Student feedback
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          We include a wide range on non-University options for you to think
+          about, when selecting what to do next.  Not everyone needs a degree.
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: Left field
     section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus

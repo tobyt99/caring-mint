@@ -25,6 +25,11 @@ params:
         - label: Sign Up
           url: /signup
   palette: purple
+menu:
+  main:
+    - identifier: Topics
+      name: Friction
+      url: '%'
 disableKinds:
   - RSS
   - taxonomy

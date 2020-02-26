@@ -2,7 +2,7 @@ title: Stackbit Azimuth Theme
 baseURL: /
 params:
   footer:
-    content: '&copy; Stackbit. All rights reserved.'
+    content: '&copy; pdrift. All rights reserved.'
     has_nav: true
     has_social: true
     has_subscribe: true
@@ -15,16 +15,16 @@ params:
     social_title: Community
     subscribe_content: Stay up to date with our latest developments.
     subscribe_title: Subscribe
-    tagline: SaaS theme by Stackbit
+    tagline: 'pdrift: product 2.0'
   header:
     has_nav: true
     logo_img: images/logo.png
-    title: Azimuth
+    title: pdrift
     menu:
       actions:
         - label: Sign Up
           url: /signup
-  palette: orange
+  palette: purple
 disableKinds:
   - RSS
   - taxonomy

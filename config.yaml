@@ -22,7 +22,7 @@ params:
     title: pdrift
     menu:
       actions:
-        - label: Sign Up
+        - label: Newsletter
           url: /signup
   palette: blue
 menu:

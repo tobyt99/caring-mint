@@ -8,4 +8,10 @@ menu:
     weight: 1
 layout: page
 ---
-I have had a light personal web presence over at [tobytreacher.co.uk](tobytreacher.co.uk) for most of my career.  A very long time ago, I felt it was wise to own myself (virtually) before someone else did
+This site is intended to be a repository for "stuff".  I have always been curious about technology and have spent much time an effort understanding the actual thing as well as it's impact on people and business.  
+
+Feel free to look me up on LinkedIn, but to save you some time: 
+
+|   | 
+| :---- | ------------|
+| SPC   | As a qualified SAFe program consultant I can deliver SAFe training and coach colleagues around scaling agile techniques.|

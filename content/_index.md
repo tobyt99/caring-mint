@@ -2,14 +2,13 @@
 title: Home
 sections:
   - actions:
-      - label: Learn More
+      - label: Join in
         url: /features
     content: >-
-      The average career length is now >50 years.  We help you find something
-      you will love.
+      Musings of a modern product parent and content to encourage conversation and inspire curiosity.
     image: images/hero.png
     section_id: hero
-    title: Find work you love
+    title: "pDrift: product thinking"
     type: section_hero
   - bg: white
     featureslist:

@@ -2,20 +2,20 @@ title: pDrift
 baseURL: /
 params:
   footer:
-    content: '&copy; pdrift. All rights reserved.'
-    has_nav: true
-    has_social: true
+    subscribe_title: Subscribe
+    subscribe_content: Stay up to date with our latest developments.
     has_subscribe: true
+    social_title: Community
+    tagline: 'pdrift: product 2.0'
+    logo_img: images/logo_alt.png
+    has_social: true
+    content: '&copy; pdrift. All rights reserved.'
     links:
       - new_window: true
         text: Made with Stackbit
         url: 'https://www.stackbit.com'
-    logo_img: images/logo_alt.png
     nav_title: Company
-    social_title: Community
-    subscribe_content: Stay up to date with our latest developments.
-    subscribe_title: Subscribe
-    tagline: 'pdrift: product 2.0'
+    has_nav: true
   header:
     has_nav: true
     logo_img: images/logo.png
@@ -24,7 +24,7 @@ params:
       actions:
         - label: Sign Up
           url: /signup
-  palette: purple
+  palette: blue
 menu:
   main:
     - identifier: Topics

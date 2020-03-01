@@ -12,6 +12,12 @@ This site is intended to be a repository for "stuff".  I have always been curiou
 
 Feel free to look me up on LinkedIn, but to save you some time: 
 
-|   | 
-| :---- | ------------|
-| SPC   | As a qualified SAFe program consultant I can deliver SAFe training and coach colleagues around scaling agile techniques.|
+|     |                                                                                                                          |
+| --- | ------------------------------------------------------------------------------------------------------------------------ |
+|     | As a qualified SAFe program consultant I can deliver SAFe training and coach colleagues around scaling agile techniques. |
+
+
+
+dgh
+
+![PSC5](/images/spc.png)

@@ -68,7 +68,11 @@ sections:
           Etiam vehicula nunc velit, in consequat nisl feugiat nec.
 menu:
   main:
+    name: ''
+    weight: ''
+  secondary:
     name: Pricing
     weight: 3
 layout: landing
 ---
+

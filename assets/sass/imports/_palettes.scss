@@ -238,3 +238,82 @@
     }
   }
 }
+
+.palette-navy {
+  a {
+    &:hover,
+    &:focus {
+      border-color: _palette(accent-navy);
+      color: _palette(accent-navy);
+    }
+  }
+
+  blockquote {
+    border-color: _palette(accent-navy);
+  }
+
+  button,
+  input[type="submit"],
+  input[type="button"],
+  input[type="reset"],
+  a.button {
+    background: _palette(accent-navy);
+    border-color: _palette(accent-navy);
+    color: #fff;
+  }
+
+  .button.secondary {
+    background: transparent;
+    color: _palette(accent-navy);
+
+    &:hover,
+    &:focus,
+    &:active {
+      background: _palette(accent-navy);
+      color: #fff;
+    }
+  }
+
+  .button.white {
+    background: #fff;
+    border-color: transparent;
+    color: _palette(primary);
+  }
+
+  .underline {
+    &:after {
+      border-color: _palette(accent-navy);
+    }
+  }
+
+  .icon-plus {
+    background: _palette(accent-navy);
+  }
+
+  .review-text {
+    &:before {
+      color: _palette(accent-navy);
+    }
+  }
+
+  .plan {
+    &.highlight {
+      .plan-inside {
+        border-color: _palette(accent-navy);
+      }
+
+      .button {
+        background: _palette(accent-navy);
+        color: #fff;
+      }
+    }
+  }
+
+  .block {
+    &.bg-accent {
+      background: _palette(accent-navy);
+      background: -webkit-linear-gradient(left,_palette(accent-navy), _palette(accent-navy-alt));
+      background: linear-gradient(to right,_palette(accent-navy), _palette(accent-navy-alt));
+    }
+  }
+}

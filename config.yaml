@@ -24,7 +24,7 @@ params:
       actions:
         - label: Newsletter
           url: /signup
-  palette: blue
+  palette: navy
 menu:
   main:
     - identifier: Topics

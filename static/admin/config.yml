@@ -38,6 +38,7 @@ collections:
                   - purple
                   - green
                   - orange
+                  - navy
               - widget: object
                 name: header
                 label: Header Configuration
